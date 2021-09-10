@@ -11,4 +11,4 @@ My key skills are:
 
 👀 I’m interested in PHP, Laravel, ReactJS
 🌱 I’m currently learning Laravel, React Native
-💞️ I’m looking to collaborate on Laravel, ReactJS, React Native
+💞️ I’m looking to collaborate on Laravel, ReactJS, PHP
