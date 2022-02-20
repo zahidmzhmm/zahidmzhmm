@@ -1,14 +1,31 @@
 - 👋 Hi, I’m @zahidmzhmm
-My key skills are:
-1. HTML5, CSS3, JavaScript & jQuery, Bootstrap
-2. PHP, MySQL
-3. Web Api Integration
-4. Payment gateways
-5. E-Commerce, SMS (Student and School Management System), CMS (Content Management System), CRM (Customer Relationship Management), Others
-6. Fully functional PHP(OOP)
-7. MVC (Pattern) (Custom Framework)
-8. Laravel with api
 
-👀 I’m interested in PHP, Laravel, ReactJS
-🌱 I’m currently learning Laravel, React Native
-💞️ I’m looking to collaborate on Laravel, ReactJS, PHP
+I'm using those technologists for creating a clean website:
+------------------------------------------------------------
+➦ HTML5, CSS3, JavaScript & jQuery, Bootstrap
+➦ PHP with OOP (PDO)
+➦ MySQL
+➦ MVC (Pattern) (Custom Framework)
+➦ Laravel
+➦ Rest API
+➦ React.js, Router, Axios
+➦ Bootstrap, React Bootstrap
+➦ Material-UI
+➦ VPS, Cloud Server, Ubuntu Server, AWS
+
+
+What Services you will get from me:
+--------------------------------------
+➦ Bug Fixing
+➦ Website Monitoring
+➦ Installing PHP, Laravel script
+➦ Script upgrade to new features
+➦ Web API Integration
+➦ Existing script customization
+➦ Social media login
+➦ Adding new features
+➦ Ecommerce Website
+➦ CRM, CMS, SMS, other management systems
+➦ Payment gateways
+➦ Others which you want with PHP
+➦ Support: asap
