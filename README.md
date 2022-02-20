@@ -1,4 +1,4 @@
-I'm using those technologists for creating a clean website:
+### I'm using those technologists for creating a clean website:
 ------------------------------------------------------------
 `➦ HTML5, CSS3, JavaScript & jQuery, Bootstrap` <br>
 `➦ PHP with OOP (PDO)` <br>
@@ -10,13 +10,13 @@ I'm using those technologists for creating a clean website:
 `➦ Bootstrap, React Bootstrap` <br>
 `➦ Material-UI` <br>
 
-Deployment:
+### Deployment:
 -----------
 `➦ VPS, Cloud Server, Ubuntu Server, AWS` <br>
 
 
-What Services you will get from me:
---------------------------------------
+### What Services you will get from me:
+----------------------------------
 `➦ Bug Fixing` <br>
 `➦ Website Monitoring` <br>
 `➦ Installing PHP, Laravel script` <br>
