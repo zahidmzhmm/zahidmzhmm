@@ -37,6 +37,9 @@ A --> C((API))
 E --> D(Test)
 C --> E((Reactjs))
 B --> D
-D --> F(Finalization)
-F --> G{Deployment}
+D --> F(Problem Solving)
+F --> G(Finalization)
+G --> H{Deployment}
+H --> I{Monitoring}
+I --> F
 ```
