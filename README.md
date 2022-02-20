@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @zahidmzhmm
-
 I'm using those technologists for creating a clean website:
 ------------------------------------------------------------
 `➦ HTML5, CSS3, JavaScript & jQuery, Bootstrap` <br>
@@ -11,6 +9,9 @@ I'm using those technologists for creating a clean website:
 `➦ React.js, Router, Axios` <br>
 `➦ Bootstrap, React Bootstrap` <br>
 `➦ Material-UI` <br>
+
+Deployment:
+-----------
 `➦ VPS, Cloud Server, Ubuntu Server, AWS` <br>
 
 
