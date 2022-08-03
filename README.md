@@ -12,7 +12,10 @@
 
 ### Deployment:
 -----------
-`➦ VPS, Cloud Server, Ubuntu Server, AWS` <br>
+`➦ VPS <br>
+`➦ Cloud Server <br>
+`➦ Ubuntu Server <br>
+`➦ AWS` <br>
 
 
 ### What Services you will get from me:
