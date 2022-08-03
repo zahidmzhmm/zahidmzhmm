@@ -12,9 +12,9 @@
 
 ### Deployment:
 -----------
-`➦ VPS <br>
-`➦ Cloud Server <br>
-`➦ Ubuntu Server <br>
+`➦ VPS` <br>
+`➦ Cloud Server` <br>
+`➦ Ubuntu Server` <br>
 `➦ AWS` <br>
 
 
