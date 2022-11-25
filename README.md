@@ -9,6 +9,8 @@
 `➦ React.js, Router, Axios` <br>
 `➦ Bootstrap, React Bootstrap` <br>
 `➦ Material-UI` <br>
+`➦ Twilio SMS`<br>
+`➦ Sendgrid Email` <br>
 
 ### Deployment:
 -----------
