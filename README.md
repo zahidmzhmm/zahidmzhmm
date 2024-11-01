@@ -37,7 +37,7 @@
 `➦ Support: asap` <br>
 ```mermaid
 graph LR
-A((Laravel / PHP)) --> B((Blade))
+A((Laravel / PHP)) --> B((Blade)) --> B((React-Native))
 A --> C((API))
 E --> D(Test)
 C --> E((Reactjs))
