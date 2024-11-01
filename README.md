@@ -1,12 +1,13 @@
-### I'm using those technologists for creating a clean website:
+### I'm using those technologists to create a clean website:
 ------------------------------------------------------------
-`➦ HTML5, CSS3, JavaScript & jQuery, Bootstrap` <br>
+`➦ HTML5, CSS3, JavaScript, TypeScript & jQuery, Bootstrap` <br>
 `➦ PHP with OOP (PDO)` <br>
 `➦ MySQL` <br>
 `➦ MVC (Pattern) (Custom Framework)` <br>
 `➦ Laravel` <br>
 `➦ Rest API` <br>
 `➦ React.js, Router, Axios` <br>
+`➦ React Native` <br>
 `➦ Bootstrap, React Bootstrap` <br>
 `➦ Material-UI` <br>
 `➦ Twilio SMS`<br>
@@ -37,14 +38,14 @@
 `➦ Support: asap` <br>
 ```mermaid
 graph LR
-A((Laravel / PHP)) --> B((Blade)) --> B((React-Native))
-A --> C((API))
+A((Laravel / PHP / TypeScript / JavaScript)) --> B((Blade))  
+A --> C((API))--> J((React Native)) --> D
 E --> D(Test)
 C --> E((Reactjs))
 B --> D
 D --> F(Problem Solving)
 F --> G(Finalization)
 G --> H{Deployment}
-H --> I{Monitoring}
+H --> I{Monitoring CI/CD}
 I --> F
 ```
